@@ -1,11 +1,8 @@
 **Documento de Requisitos -- Sistema Registrador Acadêmico**
 
 Participantes do Projeto: Rafael de Paula, Gabriel Troni e Renan Machado
+
 Cliente: Rhadija Dib
-
-**Documento de Requisitos -- Sistema Registrador Acadêmico**
-
-Participantes do Projeto: Rafael de Paula, Gabriel Troni e Renan Machado
 
 **Objetivo do Sistema**
 
