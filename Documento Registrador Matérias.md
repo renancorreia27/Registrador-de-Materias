@@ -1,6 +1,11 @@
 **Documento de Requisitos -- Sistema Registrador Acadêmico**
 
 Participantes do Projeto: Rafael de Paula, Gabriel Troni e Renan Machado
+Cliente: Rhadija Dib
+
+**Documento de Requisitos -- Sistema Registrador Acadêmico**
+
+Participantes do Projeto: Rafael de Paula, Gabriel Troni e Renan Machado
 
 **Objetivo do Sistema**
 
@@ -9,6 +14,13 @@ estudantes a organizarem seu desempenho acadêmico. O sistema deve
 permitir registrar matérias, lançar notas e faltas, e consultar
 informações de desempenho acadêmico como média, faltas restantes e nota
 mínima necessária para aprovação.
+
+**Levantamento de Requisitos**
+
+Os requisitos deste sistema foram levantados a partir de uma reunião com o cliente, na qual foram discutidas as principais necessidades dos estudantes em relação à organização de suas matérias, notas e faltas. 
+O objetivo identificado foi oferecer uma forma clara de acompanhamento.
+Dessa forma permitindo que os alunos se programem melhor durante o semestre, visualizando quantas faltas ainda podem ter e qual nota precisam alcançar nas próximas avaliações.
+
 
 **Requisitos Funcionais**
 
