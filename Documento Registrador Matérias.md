@@ -67,6 +67,3 @@ Além de cadastrar informações, o estudante pode utilizar o sistema para consu
 O estudante também pode verificar quantas faltas ainda pode ter em determinada matéria antes de atingir o limite máximo permitido. O sistema compara o total de faltas já registradas com o limite estabelecido no cadastro e informa o valor restante.
 O estudante tem a possibilidade também de calcular com base nas suas notas e faltas registradas nas matérias se é viável a transferência de curso. O sistema após receber os dados necessários, opera o cálculo e exibe ao usuário o resultado.
 Quando o estudante não deseja mais utilizar o sistema, ele seleciona a opção de sair. O sistema encerra a execução, finalizando a sessão.
-
-
-• Adicionar alertas automáticos (ex.: risco de reprovação por faltas).
