@@ -56,4 +56,17 @@ Não definidos ainda.
 
 • Realizar cálculos adicionais com médias (ex.: transferência de curso).
 
+•	Adicionar alertas automáticos (ex.: risco de reprovação por faltas). 
+
+**Descrição Textual de Casos de Uso**
+
+O estudante inicia o sistema e é apresentado a um menu com as opções disponíveis. Ele pode escolher, por exemplo, cadastrar uma nova matéria. Ao selecionar essa opção, o sistema solicita que informe o nome da disciplina, a média necessária para aprovação, o limite de faltas permitidas e o número total de provas. Após fornecer essas informações, a matéria é registrada e fica disponível para consultas e atualizações.
+Mais tarde, o estudante pode retornar ao sistema e escolher lançar uma nova nota em determinada disciplina. O sistema solicita o nome da matéria, e, caso ela já esteja cadastrada, pede a nota a ser inserida.
+De forma semelhante, o aluno pode registrar faltas em uma matéria. O sistema pergunta qual disciplina deseja atualizar e quantas faltas devem ser adicionadas. Ao receber a informação, o sistema consulta a quantidade de faltas permitidas na matéria selecionada, soma as faltas ao total já existente e confirma a operação.
+Além de cadastrar informações, o estudante pode utilizar o sistema para consultas. Ele pode, por exemplo, solicitar a média atual de uma disciplina. Nesse caso, o sistema identifica as notas já registradas, realiza o cálculo e apresenta a média. Se o aluno quiser planejar suas próximas provas, pode consultar qual nota precisa tirar para alcançar a média de aprovação. O sistema calcula esse valor com base nas notas já lançadas e no número de provas restantes.
+O estudante também pode verificar quantas faltas ainda pode ter em determinada matéria antes de atingir o limite máximo permitido. O sistema compara o total de faltas já registradas com o limite estabelecido no cadastro e informa o valor restante.
+O estudante tem a possibilidade também de calcular com base nas suas notas e faltas registradas nas matérias se é viável a transferência de curso. O sistema após receber os dados necessários, opera o cálculo e exibe ao usuário o resultado.
+Quando o estudante não deseja mais utilizar o sistema, ele seleciona a opção de sair. O sistema encerra a execução, finalizando a sessão.
+
+
 • Adicionar alertas automáticos (ex.: risco de reprovação por faltas).
